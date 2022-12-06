@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "stripe": "stripe-cli/stripe.exe listen --forward-to localhost:3000/api/webhooks"
+    "stripe": "stripe-cli/stripe.exe listen --forward-to lunnar-rocketseat-ignews.vercel.app/api/webhooks"
   },
   "dependencies": {
     "@prismicio/client": "^4",
